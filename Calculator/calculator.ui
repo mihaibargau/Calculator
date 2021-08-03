@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>370</width>
-    <height>203</height>
+    <height>235</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -309,6 +309,9 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	color: #fffff0;
 }</string>
+      </property>
+      <property name="readOnly">
+       <bool>true</bool>
       </property>
      </widget>
     </item>
